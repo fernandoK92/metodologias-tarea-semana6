@@ -1,5 +1,4 @@
-# algoritmo para resolver el proceso de validación de clave de un cajero
-# fernando castro metodologias - tarea -semana6
+# fernando Castro metodologias semana 6
 'use strict';
 //Agregamos las variables respectivas 
 let clave=3214;
@@ -19,3 +18,4 @@ while (num != clave && contador<5)
             alert("Clave correcta")
             alert("Operacion Exitosa")
         }
+
